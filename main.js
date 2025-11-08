@@ -23,9 +23,6 @@ function onBallClick(el, ev) {
 
         el.innerText = newBallWidth
     }
-
-
-
 }
 
 
